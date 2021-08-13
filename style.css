@@ -40,6 +40,11 @@
     font-size: 25px;
     border: none;
     margin-top:10px ;
+    cursor: pointer;
+}
+.section1 .main .text  button:hover{
+
+    background-image: linear-gradient(to right, rgb(231, 135, 62) , rgb(197, 46, 0));
 }
 .section1 .main .img{
 }
@@ -85,8 +90,12 @@
     font-size: 25px;
     border: none;
     margin-top:10px ;
+    cursor: pointer;
 }
+.section2 .main .text  button:hover{
 
+    background-image: linear-gradient(to right, rgb(231, 135, 62) , rgb(197, 46, 0));
+}
 /*------------------- My Racipies --------------------*/
 
 .section3{
