@@ -1,0 +1,67 @@
+/*--------------------- Section1  -------------------*/
+.section1 .main .text h1{
+    font-size: 50px;
+    line-height: 60px;
+    color: rgb(82, 80, 80);
+}
+
+.section1 .main .text  p{
+    padding: 30px 0;
+    line-height: 35px;
+}
+
+.section1 .main .text  button{
+    padding: 20px  40px;
+    background-image: linear-gradient(to right, rgb(255, 148, 66) , rgb(253, 59, 0));
+    color: white;
+    font-size: 25px;
+    border: none;
+    margin-top:10px ;
+}
+/*-------------------- About section  ----------------*/
+.section2 .main .text  p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+    line-height: 35px;
+    color: gray;
+}
+.section2 .main .text  button{
+    padding: 20px  40px;
+    background-image: linear-gradient(to right, rgb(255, 148, 66) , rgb(253, 59, 0));
+    color: white;
+    font-size: 22px;
+    border: none;
+    margin-top:10px ;
+}
+.section2 .main .img img{
+    width: 60%;
+}
+/*------------------- My Racipies --------------------*/
+.section3 .main .menu{
+    grid-column-gap: 30px;
+}
+.section3 .main .menu .item p{
+    padding-top: 20px ;
+    line-height: 35px;
+}
+.section3 .main .menu .item p br{
+    display: none;
+}
+/*--------------------- section4 ------------------------*/
+.section4{
+    padding-top:90px ;
+}
+/*------------------ Footer  ---------------------*/
+footer .container{
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+footer .container h1{
+    margin-bottom: 30px;
+}
+
+
+
+
+

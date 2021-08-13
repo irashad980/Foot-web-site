@@ -1,0 +1,90 @@
+
+/*--------------------- Section1  -------------------*/
+.section1{
+    padding-top:60px ;
+}
+.section1 .main .text h1{
+    font-size: 40px;
+    line-height: 50px;
+}
+br{
+    display: none;
+}
+.section1 .main .text  p{
+    padding: 20px 0;
+    font-size: 20px;
+    line-height: 35px;
+    color: gray;
+}
+.section1 .main .text  button{
+    padding: 15px  30px;
+    background-image: linear-gradient(to right, rgb(255, 148, 66) , rgb(253, 59, 0));
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin-top:10px ;
+}
+/*--------------------- About Section  -------------------*/
+.section2 .main .text  h1{
+    font-size: 40px;
+}
+.section2 .main .text  p{
+    padding: 20px 0;
+    font-size: 20px;
+    line-height: 35px;
+    color: gray;
+}
+.section2 .main .text  button{
+    padding: 15px  30px;
+    background-image: linear-gradient(to right, rgb(255, 148, 66) , rgb(253, 59, 0));
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin-top:10px ;
+}
+/*------------------- My Racipies --------------------*/
+
+.section3 .main .text h1{
+    font-size: 40px;
+    color: rgb(82, 80, 80);
+}
+.section3 .main .text p{
+    padding: 30px 0;
+    font-size: 20px;
+    line-height: 40px;
+    color: gray;
+}
+.section3 .main .menu .item h1{
+    font-size: 30px;
+    padding-top: 30px;
+}
+.section3 .main .menu .item p{
+    padding-top: 20px ;
+    line-height: 28px;
+    color: gray;
+    font-size: 18px;
+}
+
+/*--------------------- section4 ------------------------*/
+.section4 .main .container .item h1{
+    font-size: 40px;
+}
+.section4 .main .container .item p{
+    font-size: 18px;
+    margin-top: 10px;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

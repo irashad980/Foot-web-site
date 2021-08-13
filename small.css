@@ -1,0 +1,100 @@
+
+/*--------------------- Section1  -------------------*/
+.section1 .main{
+    display: grid;
+    grid-template-columns: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.section1 .main .text h1{
+    text-align:start;
+    font-size: 35px;
+    line-height: 50px;
+}
+.section1 .main .text  p{
+    line-height: 25px;
+    font-size: 18px;
+}
+.section1 .main .text button{
+    font-size: 16px;
+}
+.section1 .main .text  p br{
+    display: block;
+}
+.section1 .main .img {
+    text-align: center;
+    margin-top: 50px;
+}
+.section1 .main .img img{
+    width: 60%;
+}
+
+/*------------------- About section --------------------*/
+.section2 .main{
+    padding: 0;
+    padding-bottom: 30px;
+    display: grid;
+    grid-template-columns: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.section2 .main .text  p{
+    font-size: 18px;
+}
+.section2 .main .text h1{
+    font-size: 35px;
+}
+.section2 .main .text button{
+    font-size: 16px;
+}
+.section2 .main .img {
+    text-align: center;
+    margin-top: 50px;
+}
+.section2 .main .img img{
+    width: 30%;
+}
+/*------------------- My Racipies --------------------*/
+.section3 .main .text{
+    text-align: start;
+}
+.section3 .main .text h1{
+    font-size: 35px;
+    color: rgb(82, 80, 80);
+}
+.section3 .main .text p{
+    padding: 30px 0;
+    padding-top: 20px;
+    font-size: 18px;
+    line-height: 28px;
+    color: gray;
+}
+/*--------------------- section4 ------------------------*/
+.section4{
+    padding-top:50px ;
+}
+.section4 .main .container{
+    padding: 5% 0%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px, 1fr));
+    grid-column-gap: 30px ;
+    grid-row-gap: 30px;
+    margin-top: 15px;
+}
+.section4 .main .container .item h1{
+    font-size: 35px;
+}
+.section4 .main .container .item p{
+    font-size: 16px;
+}
+/*------------------ Footer  ---------------------*/
+footer{
+    padding-top:50px;
+}
+footer .container h1{
+    font-size: 30px;
+}
+footer .container p{
+    font-size: 16px;
+}
+
