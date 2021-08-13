@@ -38,6 +38,9 @@
     justify-content: space-between;
     align-items: center;
 }
+.section2 .main .text{
+    padding:  0 5px;
+}
 .section2 .main .text  p{
     font-size: 18px;
 }
